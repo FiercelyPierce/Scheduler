@@ -1,0 +1,9 @@
+﻿  Appointment.cpp
+C:\Users\Pierce\source\repos\Scheduler\Appointment.cpp(12,16): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Scheduler.cpp
+  Generating Code...
+  Scheduler.vcxproj -> C:\Users\Pierce\source\repos\Scheduler\x64\Debug\Scheduler.exe
