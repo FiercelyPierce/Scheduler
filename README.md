@@ -2,7 +2,7 @@
 
 This is a simple program that creates a simple schedule for your day. You can name to your event and then add a descripiton to it. The program will loop through until you tell it to exit.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/3ytvLuH9__A)
 
 # Development Environment
 
